@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemiShapeProgram", "TemiShapeProgram.csproj", "{402DE4B2-CCA6-4794-AB0E-8D490FBCC425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402DE4B2-CCA6-4794-AB0E-8D490FBCC425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402DE4B2-CCA6-4794-AB0E-8D490FBCC425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402DE4B2-CCA6-4794-AB0E-8D490FBCC425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402DE4B2-CCA6-4794-AB0E-8D490FBCC425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45889503-8464-4EB9-9389-D32DCDE6BDD7}
+	EndGlobalSection
+EndGlobal
